@@ -6,20 +6,19 @@ const textoPrincipal = document.queryselector(".caixa-resultado");
 
 const perguntas =[
     {
-        enunciado: 
+        enunciado: ""
         alternativas: [
-        ]
-    },
-{
-    enunciado: 
-    alternativas: [
-    ]
-},
-{
-    enunciado: 
-    alternativas: [
-    ]
-}
+        {
+            texto:
+            afirmacao:
+        },
+        {
+            texto:
+            afirmacao:
+        }
+      ]
+   },
+   
 ];
 
 let atual = 0;
